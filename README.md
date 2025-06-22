@@ -53,10 +53,23 @@ This project explores real-world Uber ride data to answer key questions like:
 
 ## 📈 Insights & Findings
 
-- 🚨 Most rides occur during **evening rush hours (5 PM – 8 PM)**
-- 🏙️ **City centers** dominate as popular pickup locations
-- 📅 **Weekdays show more structured ride patterns**; weekends are more scattered
-- ❄️ Monthly ride frequency shows drops during certain seasons — suggesting **weather or holidays influence**
+🧳 Most cabs are booked for business purposes like Business, Meal/Entertainment, and Meeting.
+
+☀️ Afternoon is the most common time for cab bookings.
+
+🗓️ Peak booking months are February, March, August, November, and December.
+
+📆 Most rides are booked on Fridays, Tuesdays, and Mondays.
+
+📏 A large number of trips fall within the 4–5 mile range.
+
+🚗 Majority of cab rides are under 20 miles – preferred for short and mid-range travel.
+
+❌ Trips over 20 miles are rarely booked, suggesting other transport options may be used.
+
+📍 The city of Cary has the highest number of bookings, making it a key hub in the dataset.
+
+
 
 ---
 
